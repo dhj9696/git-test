@@ -9,5 +9,5 @@ func main() {
 	fmt.Println("hello hot-fix")
 	fmt.Println("master test")
 	fmt.Println("hello hot-fix test")
-
+	fmt.Println("push test")
 }
